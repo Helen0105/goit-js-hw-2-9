@@ -17,7 +17,7 @@ button.onclick = () => {
 
     contact.appendChild(li);
 
-    // Очищення інпутів
+
     name.value = '';
     phone.value = '';
 };
